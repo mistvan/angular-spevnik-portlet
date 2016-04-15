@@ -18,4 +18,4 @@
 
 <portlet:defineObjects />
 
-This is the <b>angular-spevnik-portlet</b>.
+This is the <b>angular-spevnik-portlet</b>. Welcome!
